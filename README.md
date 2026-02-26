@@ -2,11 +2,10 @@
 Languages supported by [FE Scanner](https://docs.fast-events.eu/en/latest/apps/scan.html).
 
 ## Add a language
-Check the languages folder to see if your language is supported. If the language is not supported you can add a language yourself. Follow the steps below:
-
-1. Make sure you have a  Github account
-1. Sign in with your Github account at [https://gitlocalize.com/repo/10688](https://gitlocalize.com/repo/10688)
-1. Create a new issue in [https://github.com/fe-data/fe-scanner-languages/issues](https://github.com/fe-data/fe-scanner-languages/issues) requesting the new language code. We will give you the role of moderator for the new language. Use the two letter codes from [this source](http://www.loc.gov/standards/iso639-2/php/code_list.php). Only LTR-languages are supported.
+1. Make sure you have a  [Github account](https://github.com).
+1. Check the *languages* folder of [https://github.com/fe-data/fe-scanner-languages](https://github.com/fe-data/fe-scanner-languages) if your language is supported.
+1. If not, login with the Github account at [https://gitlocalize.com/repo/10688](https://gitlocalize.com/repo/10688>) and check if the translation is in progress.
+1. If not, create a new issue in [https://github.com/fe-data/fe-scanner-languages/issues](https://github.com/fe-data/fe-scanner-languages/issues) requesting the new language code. We will give you the role of moderator for the new language. Use the two letter codes from [this source](http://www.loc.gov/standards/iso639-2/php/code_list.php). Only LTR-languages are supported.
 
 ## Pull requests
 As a moderator you may receive review requests from other translators. Process them and when you are happy with the update, create a pull request.
