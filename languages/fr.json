@@ -28,6 +28,8 @@
   "languages": "Langues",
   "languagesChoose": "Choisissez",
   "languagesChooseText": "Choisissez une langue dans la liste",
+  "languagesDoIt": "Si votre langue n'est pas disponible, vous pouvez la créer vous-même : ",
+  "languagesDoItClick": "cliquez ici",
   "languagesRestart": "Redémarrer",
   "languagesRestartTxt": "Redémarrez l'application pour activer la mise à jour linguistique",
   "languagesUpdate": "Actualisation",

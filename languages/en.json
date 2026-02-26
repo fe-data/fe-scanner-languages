@@ -28,6 +28,8 @@
   "languages": "Languages",
   "languagesChoose": "Choose",
   "languagesChooseText": "Choose a language from the list",
+  "languagesDoIt": "If your language isn’t available, you can create it yourself: ",
+  "languagesDoItClick": "click here",
   "languagesRestart": "Restart",
   "languagesRestartTxt": "Restart the App to activate the language update",
   "languagesUpdate": "Update",

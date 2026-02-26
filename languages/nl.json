@@ -28,6 +28,8 @@
   "languages": "Talen",
   "languagesChoose": "Kies",
   "languagesChooseText": "Kies een taal uit de lijst",
+  "languagesDoIt": "Als je taal niet beschikbaar is, dan kun je die zelf aanmaken: ",
+  "languagesDoItClick": "klik hier",
   "languagesRestart": "Herstarten",
   "languagesRestartTxt": "Start de App opnieuw op om de bijgewerkte taal te activeren",
   "languagesUpdate": "Update",
